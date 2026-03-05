@@ -1,4 +1,4 @@
-# Water Pressure Point Filter
+# Water Pressure Writer
 
 Filters a list of water pressure points by removing duplicates based on spatial proximity, then writes the unique points to a file.
 
